@@ -134,7 +134,7 @@ Dengan data tersebut, buatlah sebuah peta sebaran Covid-19 per provinsi di Indon
 - Tampilkan _marker_ di setiap provinsi.
 - Saat _marker_ diklik akan menampilkan _popup message_ total kasus, pasien sembuh & kematian akibat Covid-19 di provinsi tersebut.
 - Jawaban yang diminta berupa 1 file _notebook_ (__.ipynb__) berisi proses ekstraksi & data cleaning, beserta 1 file _html_ peta sebaran Covid-19 per provinsi (__.html__). 
-- Contoh output dapat Anda simak di [bit.ly/cov19id](bit.ly/cov19id). Tampilan tidak harus sama, utamakan fitur.
+- Contoh output dapat Anda simak di [bit.ly/cov19id](http://bit.ly/cov19id). Tampilan tidak harus sama, utamakan fitur.
 
 ✅ _Push & commit jawaban Anda ke sebuah repo github dengan nama __Soal3_Covid19__. Kirim & lampirkan url repo github Anda via email ke lintang@purwadhika.com_ dengan subject email "_NamaLengkap_Covid19_".
 
