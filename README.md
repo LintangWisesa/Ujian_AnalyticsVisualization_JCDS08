@@ -144,7 +144,7 @@ Dengan data tersebut, buatlah sebuah peta sebaran Covid-19 per provinsi di Indon
 
 # Remedial Ujian Python Data Analytics & Visualization
 
-### **Soal - 🍔 McDonald's Menu 🍟**
+### **Soal - 🍔 Nutrisi McD 🍟**
 
 Disediakan dataset daftar nutrisi tiap menu di McDonald, unduh di sini: [Nutrition Facts for McDonald's Menu](https://www.kaggle.com/mcdonalds/nutrition-facts). Buatlah sebuah file _notebook_ (__.ipynb__) dan selesaikanlah beberapa soal berikut:
 
