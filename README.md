@@ -140,6 +140,37 @@ Dengan data tersebut, buatlah sebuah peta sebaran Covid-19 per provinsi di Indon
 
 <hr>
 
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+
+# Remedial Ujian Python Data Analytics & Visualization
+
+### **Soal - 🍔 McDonald's Menu 🍟**
+
+Disediakan dataset daftar nutrisi tiap menu di McDonald, unduh di sini: [Nutrition Facts for McDonald's Menu](https://www.kaggle.com/mcdonalds/nutrition-facts). Buatlah sebuah file _notebook_ (__.ipynb__) dan selesaikanlah beberapa soal berikut:
+
+1. Untuk _feature/column_ ```Serving Size```, ```Calories```, & ```Total Fat``` hitunglah:
+    - Mean, Median dan Modus
+    - Range, Q1, Q3 dan IQR
+    - Standard Deviasi & Variance
+    - Z-score tiap data point
+
+2. Untuk _feature/column_ ```Serving Size```, ```Calories```, & ```Total Fat``` carilah _data outlier_-nya berdasarkan:
+    - IQR method
+    - Z-score method
+
+3. Untuk menu dengan kategori ```Coffee & Tea```, ```Breakfast```, ```Chicken & Fish```, ```Beef & Pork``` & ```Snacks & Sides```, tampilkan sebaran data dalam bentuk _boxplot_ dan _histogram_ untuk _feature/column_ ```Serving Size```, ```Calories```, & ```Total Fat```.
+
+4. Untuk menu dengan kategori ```Coffee & Tea```, ```Breakfast```, ```Chicken & Fish```, ```Beef & Pork``` & ```Snacks & Sides```, visualisasikan dalam bentuk _bar chart_ data berikut:
+    - 5 Menu dengan ```Serving Size``` tertinggi tiap kategori.
+    - 5 Menu dengan ```Calories``` tertinggi tiap kategori.
+    - 5 Menu dengan ```Total Fat``` tertinggi tiap kategori.
+
+_**Catatan:**_ 
+
+✅ Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Nutrisi_McD__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_
+
+<hr>
+
 ### *__#HappyCoding__* :relaxed:
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
